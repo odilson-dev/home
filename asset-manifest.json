@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.a2671215.css",
-    "main.js": "/static/js/main.8fe10ebd.js",
+    "main.js": "/static/js/main.66a8ea8e.js",
     "static/js/787.6971d1b3.chunk.js": "/static/js/787.6971d1b3.chunk.js",
     "static/media/odilson3.png": "/static/media/odilson3.aa90efe12ab83d7ac9d0.png",
-    "static/media/odilson.png": "/static/media/odilson.c06fbe45e23b47ab510e.png",
+    "static/media/odilson_micro.jpg": "/static/media/odilson_micro.b4dba5e6eecde36e029a.jpg",
     "index.html": "/index.html",
     "main.a2671215.css.map": "/static/css/main.a2671215.css.map",
-    "main.8fe10ebd.js.map": "/static/js/main.8fe10ebd.js.map",
+    "main.66a8ea8e.js.map": "/static/js/main.66a8ea8e.js.map",
     "787.6971d1b3.chunk.js.map": "/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2671215.css",
-    "static/js/main.8fe10ebd.js"
+    "static/js/main.66a8ea8e.js"
   ]
 }
